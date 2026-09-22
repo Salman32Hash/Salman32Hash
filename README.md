@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="ChatGPT Image Sep 22, 2026, 11_25_30 PM.png" width="100%">
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm Salman Tanvir
 
 ### 🎓 Student | 💻 Programmer | 🚀 Tech Enthusiast | Sports Enthusiast
